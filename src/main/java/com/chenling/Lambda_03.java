@@ -5,9 +5,6 @@ import com.chenling.entity.Student;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
-import java.util.Optional;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Lambda_03 {
     public static void main(String[] args) {
